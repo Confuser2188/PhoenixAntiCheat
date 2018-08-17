@@ -1,6 +1,6 @@
 # PAC Issues
 
-Before creating an issue, please make sure that you include these details on your issue. Also fixing bugs is more easier with videos/screenshots. Please add them to your issue if possible.
+Before creating an issue, please make sure that you include these details on your issue. Also fixing bugs is much easier with videos/screenshots. Please add them to your issue if possible.
 
 - PAC version
 - Plugin list
